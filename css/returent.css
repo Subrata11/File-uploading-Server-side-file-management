@@ -1,0 +1,17 @@
+﻿body{
+	padding-top: 20px;
+	/*background-image: url("2.jpg"); */
+}
+
+.cls1{
+	margin-top: 45px;
+	padding-top: 45px;
+	/*color: white;*/
+	/*font-size: 20px;*/
+	/*font-family: ‘Times New Roman’, Times, serif;*/
+}
+.cls1 .file {
+  visibility: hidden;
+  position: absolute;
+}
+
