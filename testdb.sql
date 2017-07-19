@@ -40,7 +40,6 @@ CREATE TABLE `tbl_users` (
 INSERT INTO `tbl_users` (`userID`, `userName`, `userCategory`, `userPic`) VALUES
 (52, 'subrata', 'Friends', '881375.jpg'),
 (53, 'rajib', 'facebook', '723208.jpg'),
-(55, 'à¦ªà¦¿à¦•à¦¨à¦¿à¦•', 'à¦ªà¦¿à¦•à¦¨à¦¿à¦• à¦›à¦¬à¦¿ ', '819700.jpg'),
 (56, 'subrat', 'brother', '860705.png');
 
 -- --------------------------------------------------------
